@@ -1,6 +1,6 @@
-<h3 align="left">I am a Junior Front End Developer 👩🏻‍💻</h3>
+<h3 align="left">I am a Junior  Developer 👩🏻‍💻</h3>
 
-- 🔭 I’m currently working on **my Frontend Development skills**
+- 🔭 I’m currently working on **my Frontend and Mobile Development skills**
 
 - 📫 How to reach me **alperenyilmaz47@gmail.com**
 
