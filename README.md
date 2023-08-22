@@ -15,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenyilmaz47&show_icons=true&locale=en&layout=compact" alt="alperenyilmaz47" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenyilmaz47&" alt="alperenyilmaz47" /></p>
